@@ -9,7 +9,7 @@
 
 body {
   font-family: "Roboto", sans-serif;
-  background-color: #faf4e4;
+  background-color: #5b1a91;
   height: 100vh;
   display: flex;
   justify-content: center;
@@ -33,7 +33,7 @@ body {
   font-family: inherit;
   font-size: 1.3rem;
   font-weight: 500;
-  color: #2cdd0d;
+  color: #2112ac;
   background-color: hsl(230, 6%, 20%);
   border-radius: 10px;
   cursor: pointer;
